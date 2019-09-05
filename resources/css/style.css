@@ -24,7 +24,7 @@ body {
     color: gray;
 }
 
-#video #image {
+video #image {
     align-items: center;
 
 }
